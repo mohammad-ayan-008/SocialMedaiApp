@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-mergeDebugResources-36:/layout/layout_g_login.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-main-39:/layout/layout_g_login.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-mergeDebugResources-36:/layout/comments_activity.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-main-39:/layout/comments_activity.xml"
+    },
+    {
+        "merged": "com.active.smallmedia.app-mergeDebugResources-36:/layout/comments_activity.xml",
+        "source": "com.active.smallmedia.app-main-39:/layout/comments_activity.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-mergeDebugResources-36:/layout/postslayout.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-main-39:/layout/postslayout.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-mergeDebugResources-36:/layout/layout_post_main.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-main-39:/layout/layout_post_main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-mergeDebugResources-36:/layout/commentsview.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.active.smallmedia.app-main-39:/layout/commentsview.xml"
+    }
+]
